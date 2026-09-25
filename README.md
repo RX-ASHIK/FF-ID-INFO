@@ -1,12 +1,12 @@
-![logo](Bind.png)
+![RX RX ASHIK 1M]
 # use termux 
 ```
 pkg update -y
 pkg upgrade -y
 pkg install python git clang make cmake pkg-config -y
 pip install requests urllib3 pycryptodome protobuf==4.25.1
-git clone https://github.com/Ehmunna/EH-FF-UNBIND-.git
-cd EH-FF-UNBIND-
+git clone https://github.com/RX-ASHIK/FF-ID-INFO
+cd FF-ID-INFO
 ```
 ## pip install
 ```
